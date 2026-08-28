@@ -1,7 +1,8 @@
 package com.joelperez.hello;
 
 /**
- * Hello world!
+ * Hello World program for CIS-055 Data Structures.
+ * Prints a greeting to standard output.
  */
 public class App {
     public static void main(String[] args) {
